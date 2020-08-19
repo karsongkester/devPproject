@@ -5,9 +5,9 @@
 
   <testsuite name="wyze"
     errors="0" failures="0" hostname="" id="" package="wyze" skipped="0"
-    tests="5" time="275.8" timestamp="">
+    tests="5" time="298.2" timestamp="">
   
-    <testcase name="min" classname="wyze" time="72.20" assertions="24">
+    <testcase name="min" classname="wyze" time="76.49" assertions="24">
 
     
 
@@ -58,7 +58,7 @@
     
     </testcase>
   
-    <testcase name="max" classname="wyze" time="20.23" assertions="5">
+    <testcase name="max" classname="wyze" time="21.15" assertions="5">
 
     
 
@@ -71,14 +71,14 @@
     
     </testcase>
   
-    <testcase name="searchBar" classname="wyze" time="34.91" assertions="2">
+    <testcase name="searchBar" classname="wyze" time="32.86" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="links" classname="wyze" time="90.71" assertions="24">
+    <testcase name="links" classname="wyze" time="102.3" assertions="24">
 
     
 
@@ -129,7 +129,7 @@
     
     </testcase>
   
-    <testcase name="shoppingCart" classname="wyze" time="57.78" assertions="5">
+    <testcase name="shoppingCart" classname="wyze" time="65.35" assertions="5">
 
     
 
